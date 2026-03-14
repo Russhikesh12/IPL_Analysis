@@ -58,7 +58,7 @@ IPL-Analytics/
 ## 🚀 How to Run
 1. Clone the repo
 ```bash
-   git clone https://github.com/Russhikesh12/IPL-Analytics.git
+   git clone https://github.com/Russhikesh12/IPL_Analysis.git
 ```
 2. Install dependencies
 ```bash
